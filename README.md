@@ -1,2 +1,2 @@
-# PDC
-PDC 관련 앱
+# ETLC
+ETLC 동물유형 검사 앱
